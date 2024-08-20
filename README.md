@@ -26,6 +26,9 @@ python train.py
 
 Run [diagnosis](https://github.com/miaoxufan/ThyroidClassification/tree/main/demo)
 
+```shell
+python diagnosis.py
+```
 
 Make a benign or malignant judgment on all diagnostic results for the same patient.
 
