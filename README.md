@@ -7,7 +7,7 @@ By Yan Tian, Xufan Miao
 
 
 ## Installation
-We utilized Python 3.7,mmcv 2.2.0, Pytorch 1.9.1  
+We utilized Python 3.7, mmcv 2.2.0, Pytorch 1.9.1  
 
 
 
