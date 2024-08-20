@@ -24,7 +24,7 @@ python train.py
 
 2. Diagnose patients
 
-Run [diagnosis](https://github.com/miaoxufan/ThyroidClassification/tree/main/demo)
+Run [diagnosis](https://github.com/miaoxufan/ThyroidClassification/blob/main/demo/diagnosis.py)
 
 ```shell
 python diagnosis.py
