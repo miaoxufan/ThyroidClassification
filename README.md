@@ -9,7 +9,8 @@ By Yan Tian, Xufan Miao
 ## Installation
 We utilized Python 3.7, mmcv 2.2.0, Pytorch 1.9.1  
 
-
+## Enhance-ShuffleNet Block
+![Alt](https://github.com/miaoxufan/ThyroidClassification/blob/main/image/enhance_shufflenet.png)
 
 ## Experiments
 1. Train
