@@ -24,8 +24,8 @@ test_pipeline = [
 ]
 
 train_dataloader = dict(
-    batch_size=1,
-    num_workers=1,
+    batch_size=64,
+    num_workers=2,
     dataset=dict(
         type=dataset_type,
         classes=['Benign', 'Malignant'],
@@ -36,8 +36,8 @@ train_dataloader = dict(
 )
 
 val_dataloader = dict(
-    batch_size=1,
-    num_workers=1,
+    batch_size=64,
+    num_workers=2,
     dataset=dict(
         type=dataset_type,
         classes=['Negative', 'Positive'],

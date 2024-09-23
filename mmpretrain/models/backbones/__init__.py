@@ -58,8 +58,10 @@ from .vision_transformer import VisionTransformer
 from .vit_eva02 import ViTEVA02
 from .vit_sam import ViTSAM
 from .xcit import XCiT
+from .shufflenet_enhancement import Enhance_ShuffleNet
 
 __all__ = [
+    'Enhance_ShuffleNet',
     'LeNet5',
     'AlexNet',
     'VGG',
